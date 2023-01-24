@@ -1,6 +1,6 @@
 ## Hello there ´･ᴗ･`
 
-- 🔭 I’m currently working on my **Software Engineering Degree**
+👩‍💻 working as **Developer**
 
 ## Skills and Experiences
 ### Languages:

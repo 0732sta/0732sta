@@ -1,6 +1,7 @@
 ## Hello there ´･ᴗ･`
 
-👩‍💻 working as **Developer**
+👩🏽‍💻 working as **Developer**
+👩🏽‍🎓 Graduate Computer Science 
 
 ## Skills and Experiences
 ### Languages:

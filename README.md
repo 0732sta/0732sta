@@ -1,28 +1,5 @@
 ## Hello there ´･ᴗ･`
 
-👩🏽‍💻 working as **Developer** <br>
-👩🏽‍🎓 Graduate Computer Science 
+👩🏽‍💻 working past as **Developer** | now as **Engineer** <br>
+👩🏽‍🎓 Graduate Computer Science | Certified PL-900 (Power Platform Fundamentals)
 
-## Skills and Experiences
-### Languages:
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### Microsoft Software Development Platforms:
-<p>
-  <img alt="Microsoft SharePoint" src="https://img.shields.io/badge/sharepoint-%407855.svg?&style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
-  <img alt="Microsoft Power Automate" src="https://img.shields.io/badge/power automate-blue.svg?&style=for-the-badge&logo=powerautomate&logoColor=white"/>
-  <img alt="Microswoft PowerApps" src="https://img.shields.io/badge/powerapps-blueviolet.svg?&style=for-the-badge&logo=powerapps&logoColor=white"/>
-</p>
-  
-### Frameworks:
-<p>
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23E34F26.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
